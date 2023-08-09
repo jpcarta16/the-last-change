@@ -22,3 +22,4 @@ jobs:
       - name: Test for commits
         run: |
           python -m unittest test_contribute
+
